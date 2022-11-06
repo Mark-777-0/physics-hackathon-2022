@@ -1,9 +1,7 @@
 //React
 import {useEffect, useRef, useState} from 'react'
-import Sketchers from './sketches/sketch';
 // import useScript from './sketches/useScript';
 // import Helmet from "react-helmet";
-import ScriptTag from 'react-script-tag';
 
 //Styling
 import './welcome.scss'

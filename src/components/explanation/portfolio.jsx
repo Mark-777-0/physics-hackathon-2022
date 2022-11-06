@@ -8,7 +8,11 @@ import RemarkMathPlugin from 'remark-math';
 import { BlockMath, InlineMath } from 'react-katex';
 import 'katex/dist/katex.min.css';
 import LOGO from './cometLogo.svg'
+import One from './One.svg'
+import Two from './Two.svg'
+import Three from './Three.svg'
 export default function Portfolio() {
+
 
   
   const _mapProps = (props) => ({
@@ -37,10 +41,10 @@ export default function Portfolio() {
       
       <div id='explanation'> 
 
-
-      <p><span class='title'> What is our project</span></p> <p className="text">  <br></br>
+      
+      <p><span class='title'> What is Galactic Pong?!</span></p> <p className="text">  <br></br>
       Welcome to the Virgo Super Cluster where the game of pong is played at a galactic scale. The rules are simple:
-      <img src={LOGO}></img>
+      <img className='logo' src={LOGO}></img>
       <br></br><br></br>
     <ol>
     <li>1.) Two players are located millions of kilometers apart from one another on opposite sides of the field of play. </li> 
@@ -61,7 +65,24 @@ Players can enjoy the game while listening to an original soundtrack composed by
        </p>
        <p><span class='title'> Math and Physics</span></p>
        <p className="text">  <br></br>
-       A paddle with proper length $L_0$ travelling at velocity $v_p$ will have the following length in the frame of reference of an observer at rest.
+       A paddle with proper length L0 travelling at velocity vp will have the following length in the frame of reference of an observer at rest.
+
+       <img className='latex' src={One}/> 
+       <br></br>
+       
+       The relativistic equations of motion of moving gravitational bodies are given by the Einstein-Infeld-Hoffmann equation. This equation is used to find the equation of motion of the ball moving through a field of black holes. In the case of galactic pong, the mass of the ball is assumed to be negligible compared to that of the black hole's. This greatly simplifies the Einstein-Infeld-Hoffmann equation as the velocity of the black holes remains zero at all times. The simplified equation is the following:
+       <img className='latex'  src={Two}/> 
+
+       <br></br>
+       Being in close proximity to a black hole causes the ball's flow of time to dilate. With a proper time of t0, the time dilation of the ball due to the gravitation of a non-rotating black hole is the following: 
+
+       <img className='latex'  src={Three}/> 
+       The total time dilation takes into account every black hole in the field of play.
+        </p>
+        
+        <p><span class='title'> References</span></p> <p className="text">
+        <em>Carroll, S. (2003). Spacetime and Geometry: An Introduction to General Relativity. Benjamin Cummings. ISBN: 0805387323</em>
+
         </p>
 
       </div>

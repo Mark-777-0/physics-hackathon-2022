@@ -20,13 +20,13 @@ export default function Work() {
 };
   const boys = [
     {name: 'Kusha Sareen',
-      image: './kusha.png',
+      image: './kusha.jpeg',
     description:'p5.js enjoyer'},
     {name: 'Simon Overgaard',
-      image: './simon.png',
+      image: './simon.jpeg',
     description:'gamma function understander'},
     {name: 'Felix Gottlieb',
-      image: './felix.png',
+      image: './felix.jpeg',
     description:'------'},
     {name: 'Mark Daniel',
       image: './mark.png',
@@ -49,7 +49,7 @@ export default function Work() {
         component="img"
         style={styles.media} 
      
-        image={require('./kusha.png')}
+        image={require('./kusha.jpeg')}
         alt={'kusha'}
       />
 
@@ -81,7 +81,7 @@ export default function Work() {
         component="img"
         style={styles.media} 
      
-        image={require('./kusha.png')}
+        image={require('./simon.jpeg')}
         alt={'kusha'}
       />
 
@@ -113,7 +113,7 @@ export default function Work() {
         component="img"
         style={styles.media} 
      
-        image={require('./kusha.png')}
+        image={require('./felix.jpeg')}
         alt={'kusha'}
       />
 
@@ -145,7 +145,7 @@ export default function Work() {
         component="img"
         style={styles.media} 
      
-        image={require('./kusha.png')}
+        image={require('./mark.jpeg')}
         alt={'kusha'}
       />
 

@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.fed87ceb.css",
-    "main.js": "/static/js/main.8b62522f.js",
+    "main.css": "/static/css/main.86abd410.css",
+    "main.js": "/static/js/main.c92ad465.js",
+    "static/media/mark.jpeg": "/static/media/mark.24086463f97aca1c1ec2.jpeg",
+    "static/media/felix.jpeg": "/static/media/felix.561949d1d90b4fb64450.jpeg",
+    "static/media/simon.jpeg": "/static/media/simon.386194529e8cac12b216.jpeg",
+    "static/media/kusha.jpeg": "/static/media/kusha.36ec238d4e33d7dba855.jpeg",
     "static/media/PhysicsHackathon.mp3": "/static/media/PhysicsHackathon.99fb10388186f1ae46d2.mp3",
-    "static/media/kusha.png": "/static/media/kusha.789cdf9ee6c46b61be51.png",
     "static/media/HackLogo.svg": "/static/media/HackLogo.2939dca3f5dfc9a7f9c85f4bede33ce9.svg",
+    "static/media/Two.svg": "/static/media/Two.eff19fea9a6942ca694d0091d2b4c508.svg",
+    "static/media/One.svg": "/static/media/One.be910ac7abea12d970f8aa140cd5a27a.svg",
     "static/media/KaTeX_AMS-Regular.ttf": "/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
     "static/media/KaTeX_Main-Bold.ttf": "/static/media/KaTeX_Main-Bold.8169508bf58f8bd92ad8.ttf",
+    "static/media/Three.svg": "/static/media/Three.5bb627e5c3f147387526294920647050.svg",
     "static/media/KaTeX_Main-Italic.ttf": "/static/media/KaTeX_Main-Italic.fa675e5e4bec9eb250b6.ttf",
     "static/media/KaTeX_AMS-Regular.woff": "/static/media/KaTeX_AMS-Regular.d562e886c52f12660a41.woff",
     "static/media/KaTeX_Main-BoldItalic.ttf": "/static/media/KaTeX_Main-BoldItalic.828abcb200061cffbaae.ttf",
@@ -66,12 +72,13 @@
     "static/media/KaTeX_Size4-Regular.woff2": "/static/media/KaTeX_Size4-Regular.e418bf257af1052628d8.woff2",
     "static/media/KaTeX_Size3-Regular.woff": "/static/media/KaTeX_Size3-Regular.7947224e8a9914fa332b.woff",
     "static/media/KaTeX_Size3-Regular.woff2": "/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
+    "static/media/cometLogo.svg": "/static/media/cometLogo.554ea195695ebd393b2407cb7b2f71aa.svg",
     "index.html": "/index.html",
-    "main.fed87ceb.css.map": "/static/css/main.fed87ceb.css.map",
-    "main.8b62522f.js.map": "/static/js/main.8b62522f.js.map"
+    "main.86abd410.css.map": "/static/css/main.86abd410.css.map",
+    "main.c92ad465.js.map": "/static/js/main.c92ad465.js.map"
   },
   "entrypoints": [
-    "static/css/main.fed87ceb.css",
-    "static/js/main.8b62522f.js"
+    "static/css/main.86abd410.css",
+    "static/js/main.c92ad465.js"
   ]
 }
